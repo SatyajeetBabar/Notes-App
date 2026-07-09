@@ -23,4 +23,4 @@ A simple Notes Application built using React.js that allows users to create and 
 
 ## Live Demo
 
-🔗 **Project Link:** https://your-project-link.vercel.app
+🔗 **Project Link:** https://notes-app-satyajeet-babar.vercel.app/
